@@ -7,15 +7,16 @@ USE swiggy_data;
 
 CREATE TABLE restaurants (
     id INT PRIMARY KEY,
-    name TEXT,
-    area TEXT,
-    city TEXT,
-    address TEXT,
-    price DECIMAL,
-    avg_ratings DECIMAL,
+    name VARCHAR(255),
+    area VARCHAR(100),
+    city VARCHAR(100),
+    address VARCHAR(500),
+    price DECIMAL(10,2),
+    avg_ratings DECIMAL(3,2),
     total_ratings INT,
     delivery_time INT
 );
+
 
 -- Food category table
 CREATE TABLE food_types (
