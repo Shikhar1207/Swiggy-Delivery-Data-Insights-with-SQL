@@ -1,6 +1,6 @@
 # 🍽 Swiggy Data Analysis with SQL
 
-This project analyzes restaurant and delivery data from a food delivery company (like Swiggy) using SQL. The goal is to extract insights on restaurant performance, pricing, delivery time, and customer preferences.
+This project analyzes restaurant and delivery data from a food delivery company 'Swiggy' using SQL. The goal is to extract insights on restaurant performance, pricing, delivery time, and customer preferences.
 
 ---
 
