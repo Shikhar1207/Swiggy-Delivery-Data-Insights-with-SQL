@@ -1,8 +1,8 @@
 
 
-# 📊 Food Delivery Insights Dashboard
+#  Food Delivery Insights Dashboard
 
-## 🍽️ Top-Rated Restaurants (5.0 Stars)
+##  Top-Rated Restaurants (5.0 Stars)
 
 - **The Asian Pavilion** — *Mumbai*
 - **Diamond Market Pizza Jp** — *Mumbai*
@@ -48,7 +48,22 @@
 - **Fast Food** — *1,550*
 - **Beverages** — *1,524*
 
+---
 
+## Correlation between ratings and delivery efficiency
+
+|   Avg ratings |   Delivery time |   Total ratings |
+|--------------:|----------------:|----------------:|
+|           3.9 |              57 |             500 |
+|           4.5 |              53 |             500 |
+|           4.0 |              57 |             500 |
+|           4.3 |              55 |             500 |
+|           4.2 |              48 |            1000 |
+|           4.1 |              49 |             500 |
+|           4.1 |              56 |            5000 |
+|           4.3 |              64 |             500 |
+|           4.3 |              57 |             500 |
+|           4.2 |              60 |             500 |
 
 
 
