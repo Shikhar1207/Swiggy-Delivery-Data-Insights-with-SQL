@@ -67,7 +67,7 @@ GROUP BY city;
 --Correlation between ratings and delivery time
 SELECT avg_ratings, delivery_time
 FROM restaurants
-WHERE total_ratings > 50;
+WHERE total_ratings > 100;
 
 
 
